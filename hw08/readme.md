@@ -1,6 +1,6 @@
 # Домашнее задание
 
-Задания присылать на почту **ey.ml.course.hw@gmail.com** с темой "[HW 4 - Crawling Data] Фамилия Имя"
+Задания присылать на почту **ey.ml.course.hw@gmail.com** с темой "[HW 4 - Task Formulation & Crawling Data] Фамилия Имя"
 
 
 Дедлайн: 19:00 12 февраля.
